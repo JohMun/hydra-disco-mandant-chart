@@ -1,26 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T11:59:58.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="0rv_86--BYxdPFUPcqlX" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T12:11:25.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="QSMatl6jP1Wc6wQ1_pJG" version="20.4.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1138" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2324" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Disco aktuell" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="10" width="810" height="510" as="geometry" />
+          <mxGeometry x="-820" y="10" width="810" height="510" as="geometry" />
         </mxCell>
         <mxCell id="mpXEVuoKD_ivP87IAQJq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="mpXEVuoKD_ivP87IAQJq-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Instanz Admin&lt;br&gt;hydra&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
+        <UserObject label="hydra&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="286" y="30" width="160" height="50" as="geometry" />
+            <mxGeometry x="286" y="30" width="104" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="mpXEVuoKD_ivP87IAQJq-10" value="&lt;p style=&quot;line-height: 1;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;line-height: 1.1;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Disco Admin Seite&lt;/b&gt;&lt;/div&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;hydra kann&lt;/i&gt;&lt;/div&gt;&lt;/i&gt;&lt;ul style=&quot;line-height: 1.1;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Instanzen anlegen, editieren löschen&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;User anlegen, editieren löschen&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Trainings anlegen editieren löschen&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;blockquote style=&quot;color: rgb(153, 153, 153); margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;color: rgb(153, 153, 153); margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="231" y="100" width="270" height="100" as="geometry" />
+        <mxCell id="mpXEVuoKD_ivP87IAQJq-10" value="&lt;p style=&quot;line-height: 1;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;line-height: 1;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Organisations Admin&lt;/b&gt;&lt;/div&gt;&lt;ul style=&quot;line-height: 1.1;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Instanz anlegen&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Instanz editieren&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Instanz löschen&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;blockquote style=&quot;color: rgb(153, 153, 153); margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;color: rgb(153, 153, 153); margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="258" y="100" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mpXEVuoKD_ivP87IAQJq-14" value="&lt;p style=&quot;line-height: 1;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;line-height: 1.1;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Disco Admin Seite&lt;/b&gt;&lt;/div&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;Audi kann&lt;/i&gt;&lt;/div&gt;&lt;/i&gt;&lt;ul style=&quot;line-height: 1.1;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;User anlegen, editieren löschen&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Trainings anlegen editieren löschen&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;blockquote style=&quot;color: rgb(153, 153, 153); margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;color: rgb(153, 153, 153); margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="70" y="290" width="270" height="100" as="geometry" />
+        <mxCell id="mpXEVuoKD_ivP87IAQJq-18" value="Instanz" style="swimlane;fontColor=#000000;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="69" y="210" width="189" height="180" as="geometry" />
         </mxCell>
+        <mxCell id="mpXEVuoKD_ivP87IAQJq-16" value="&lt;p style=&quot;text-align: left; line-height: 1;&quot;&gt;LMS Admin&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;User verwalten&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Trainings verwalten&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="mpXEVuoKD_ivP87IAQJq-18">
+          <mxGeometry x="10" y="30" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mpXEVuoKD_ivP87IAQJq-17" value="&lt;p style=&quot;text-align: left; line-height: 1;&quot;&gt;LMS&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Trainings machen&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Account Einstellungen&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="mpXEVuoKD_ivP87IAQJq-18">
+          <mxGeometry x="10" y="100" width="170" height="70" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;background-color: initial;&quot;&gt;ACEP&lt;br&gt;&lt;/span&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="mpXEVuoKD_ivP87IAQJq-19">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="51" y="430" width="104" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;background-color: initial;&quot;&gt;Audi&lt;br&gt;&lt;/span&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="mpXEVuoKD_ivP87IAQJq-20">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="341" y="430" width="104" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;background-color: initial;&quot;&gt;Porsche&lt;br&gt;&lt;/span&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="mpXEVuoKD_ivP87IAQJq-21">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="641" y="430" width="119" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
